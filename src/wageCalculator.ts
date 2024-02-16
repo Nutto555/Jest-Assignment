@@ -48,3 +48,5 @@ export const wageCalculator = (
 
   return totalWage;
 };
+
+
