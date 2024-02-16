@@ -21,7 +21,7 @@ export const wageCalculator = (
         }
         break;
 
-      case "wed":
+      case "wed": break;
       case "thu":
         totalWage += 70;
         break;
@@ -33,7 +33,7 @@ export const wageCalculator = (
         totalWage += 90;
         break;
 
-      case "sat":
+      case "sat": break;
       case "sun":
         totalWage += 200;
         break;
